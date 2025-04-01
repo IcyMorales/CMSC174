@@ -1,2 +1,2 @@
-# CMSC174-Lab6
-CV Laboratory Activity 6
+# CMSC174
+Computer Vision Subject Repository
